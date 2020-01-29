@@ -3,7 +3,7 @@
 <h2>Introduction</h2>
 <p>In this article you are going to learn about how to integrate your Function app with your Logic App.</p>
 
-<h2>Pre-requisites</p>
+<h2>Pre-requisites</h2>
 <p>To perform this demo, you must have valid Azure subscription and some basic knowledge on Azure Function app, Logic app, AI and Machine Learning.</p>
 
 <h2>Demo</h2>

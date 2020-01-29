@@ -1,4 +1,4 @@
-<h1>Create automated, schedule-based, recurring workflows by using Azure Logic Apps</h1>
+<h1>Creating automated, schedule-based, recurring workflows by using Azure Logic Apps</h1>
 
 <h2>Introduction</h2>
 <p>In this article you are going to learn about how creating Logic app and configuring workflows in Logic app using Azure portal.</p>

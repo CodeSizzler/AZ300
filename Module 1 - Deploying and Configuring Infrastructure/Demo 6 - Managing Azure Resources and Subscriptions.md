@@ -1,12 +1,16 @@
 <h1>Managing Azure Resources and Subscriptions</h1>
 
-<h2>Exploring Monitoring Capabilities in Azure</h2>
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to manage your Azure subscriptions and Azure resources.</p>
+
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure subscription and some knowledge on Virtual Machien Scale Set, other Azure resources.</p>
 
 <h2>Demo</h2>
 
 <h2>1.Deploying Azure Virtual Machine Scale Sets</h2>
 <p>Log-in with your Azure account using www.portal.azure.com. In Azure Portal start a PowerShell session and run the following command.</p>
-	<p>Test-AzDnsAvailability -DomainNameLabel codedemo -Location 'CentralUS'	</p>
+	<p>Test-AzDnsAvailability -DomainNameLabel codedemo -Location 'CentralUS'</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az300-008/01.jpg"/>
 <img src="https://codesizzlergit.blob.core.windows.net/az300-008/02.jpg"/>
 <p>Note that the value of command returns true. If not use different values to the same command and run it.

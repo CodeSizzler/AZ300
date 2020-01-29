@@ -1,5 +1,12 @@
 <h1>Implementing user-assigned managed identities for Azure resources</h1>
 
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to implement managed identities for your Azure resources using Azure portal.</p>
+
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure account and some basic knowledge on Azure Managed Identities.</p>
+
+<h2>Demo</h2>
 <p>Log-in with Azure Portal using www.portal.azure.com. Start a Bash session in Cloud Shell panel. Upload the template files azuredeploy05.json and azuredeploy05.parameters.json in the Cloud Shell panel. After uploading the template files run the following commands to create a resource group and Virtual Machines. By running these commands, you are going to deploy a resource group and two Virtual Machines.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az300-005/01.jpg"/>
 <img src="https://codesizzlergit.blob.core.windows.net/az300-005/02.jpg"/>

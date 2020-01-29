@@ -1,9 +1,14 @@
 <h1>Configuring VNet peering and service chaining</h1>
 
-<h2>AZ-300T02_Lab_Mod03_Configuring VNet peering and service chaining.md</h2>
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to create and configure Virtual Network using Azure Cloud Shell.</p>
 
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure subscription and some basic knowledge on Azure Virtual Network, CloudShell commands.</p>
+
+<h2>Demo</h2>
 <h2>Creating an Azure lab environment by using deployment templates</h2>
-<p>Sign into azure portal. in the top of the azure portal click a cloud shell icon. And open the cloud shell select a bash window. And enter the following commands:</p>
+<p>Sign into azure portal with your account using www.portal.azure.com. In the top of the azure portal click on cloud shell icon and  select a bash. Then run the following commands.</p>
 	<p>az group create --resource-group asma01-RG --location central us</p>
 	<p>az group create --resource-group asma02-RG --location central us</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az300-004/01.jpg"/>

@@ -1,5 +1,11 @@
 <h1>Deploying and Managing Virtual Machines</h1>
 
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to deploy and configure Virtual Machine using Bash commands.</p>
+
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure subscription and some basic knowledge on Azure Bash commands, Azure Virtual Machine.</p>
+
 <h2>Demo</h2>
 <h2>Installing and configuring HashiCorp Packer</h2>
 <p>Log-in with your Azure account using www.portal.azure.com. Start a Bash session in Cloud Shell.</p>

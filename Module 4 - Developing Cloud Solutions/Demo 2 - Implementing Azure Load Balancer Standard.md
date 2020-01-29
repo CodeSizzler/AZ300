@@ -1,9 +1,13 @@
 <h1>Implementing Azure Load Balancer Standard</h1>
 
-<h2>AZ-300T03_Lab_Mod03_Implementing Azure Load Balancer Standard.md</h2>
-<h2>Implement inbound load balancing and NAT by using Azure Load Balancer Standard</h2>
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to create and configure Azure Load Balancer using Bash.</p>
 
-<p>Sign into azure portal. Open the cloud shell pane and choose the BASH section. And enter the following commands:</p>
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure subscription and some basic knowledge on Bash, Azure Load Balancer, Virtual Machines.</p>
+
+<h2>Demo</h2>
+<p>Log-in to Azure portal with your account using www.portal.azure.com. Open the cloud shell pane and select BASH. And enter the following commands:</p>
 	<p>az group create --name asma0-RG --location centralus	</p>
 <p>And open the upload button, and select the json file\allfiles\AZ-300T03 \Module_03\ azuredeploy0801. json and again open the upload button and select the parameter file \allfiles\AZ-300T03 \Module_03 \azuredeploy0801.parameters.json.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az300-002/01.jpg"/>
